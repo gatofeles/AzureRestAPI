@@ -1,0 +1,14 @@
+{
+  "variables": {
+    "saviorName": {
+      "value": "Vegeta"
+    },
+    "futureName": {
+      "value": "Trunks",
+      "isSecret": true
+    }
+  },
+  "type": "Vsts",
+  "name": "Capsule",
+  "description": "Now I have a description"
+}
